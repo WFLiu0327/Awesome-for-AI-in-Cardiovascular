@@ -26,7 +26,7 @@ If you have any questions, please feel free to contact me via: WeChat (188103275
 
 * **[Disease](#Disease)**
     * [Cardiomyopathy](#cardiomyopathy)
-    * [Myocardial Infarction](#Myocardial Infarction)
+    * [Myocardial Infarction](#Myocardial-Infarction)
     * [Coronary Artery Disease](#coronary-artery-disease)
     * [Arrhythmias](#arrhythmias)
     * [Heart Failure](#heart-failure)
