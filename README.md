@@ -4,8 +4,8 @@ In this Awesome project, we will organize and categorize the applications of art
 ![homepage_image](https://github.com/WFLiu0327/Awesome-for-AI-in-Cardiovascular/blob/main/imgs/1fc58f96-711b-4247-ae8d-f59dd6cbb9ac.png)
 
 
-# **Table of Contents**
-
+# **Contents**
+* **[Related Reviews](#Reviews)**
 * **[Tasks](#Tasks)**
   <details>
     <summary>Subtasks</summary>
@@ -44,7 +44,12 @@ In this Awesome project, we will organize and categorize the applications of art
     * [Congenital Heart Diseases](#congenital-heart-diseases)
 
   </details>
-* **[Related Reviews](#Reviews)**
+
+# **Reviews**
+**Artificial Intelligence: Practical Primer for Clinical Research in Cardiovascular Disease** \
+[03 Sep., 2019] [Journal of the American Heart Association] \
+[[Paper](https://www.ahajournals.org/doi/full/10.1161/JAHA.119.012788)] [[GitHub](https://github.com/ChunmingHe/awesome-diffusion-models-in-low-level-vision)]
+
 # **Tasks**
 
 ### Classification
@@ -72,13 +77,5 @@ In this Awesome project, we will organize and categorize the applications of art
 # **Reviews**
 
 
-## 官网链接：https://cvpr.thecvf.com/
 
-### 研讨会 :bell:：6 月 17-18 日<br>
-### 主会 :bell:：6 月 19-21 日
 
-## 历年综述论文分类汇总戳这里↘️[CV-Surveys](https://github.com/52CV/CV-Surveys)施工中~~~~~~~~~~
-
-### 🏆Best Papers
-* [Generative Image Dynamics](https://arxiv.org/abs/2309.07906)<br>:house:[project](https://generative-dynamics.github.io/)
-* [Rich Human Feedback for Text-to-Image Generation](http://arxiv.org/abs/2312.10240)
