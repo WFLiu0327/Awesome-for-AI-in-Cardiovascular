@@ -61,16 +61,19 @@ If you have any questions, please feel free to contact me via: WeChat (188103275
 [[Paper](https://arxiv.org/abs/2402.03394)] 
 # **Tasks**
 
-### Diagnose
+### Diagnosis
 **Screening and diagnosis of cardiovascular disease using artificial intelligence-enabled cardiac magnetic resonance imaging** \
 [May., 2024] [Nature Medicine] \
 [[Paper](https://www.nature.com/articles/s41591-024-02971-2)] [[GitHub](https://github.com/MedAI-Vision/CMR-AI)]
 
-**Multi-scale Cross-restoration Framework for Electrocardiogram Anomaly Detection**
+**Multi-scale Cross-restoration Framework for Electrocardiogram Anomaly Detection**\
 [2023] [MICCAI] \
 [[Paper](https://arxiv.org/abs/2308.01639)] [[GitHub](https://github.com/MediaBrain-SJTU/ECGAD)]
 ### Segmentation
-
+**Correlation-Aware Mutual Learning for
+Semi-supervised Medical Image Segmentation**\
+[2023] [MICCAI] \
+[[Paper](https://arxiv.org/abs/2307.06312)] [[GitHub](https://github.com/Herschel555/CAML)]
 ### Reconstruction
 **Toward Enabling Cardiac Digital Twins of Myocardial Infarction Using Deep Computational Models for Inverse Inference** \
 [Jul., 2024] [IEEE TRANSACTIONS ON MEDICAL IMAGING] \
@@ -79,6 +82,10 @@ If you have any questions, please feel free to contact me via: WeChat (188103275
 # **Data**
 
 ### ECG
+**Toward Enabling Cardiac Digital Twins of Myocardial Infarction Using Deep Computational Models for Inverse Inference** \
+[Jul., 2024] [IEEE TRANSACTIONS ON MEDICAL IMAGING] \
+[[Paper](https://ieeexplore.ieee.org/document/10440104)] [[GitHub](https://github.com/lileitech/MI_inverse_inference)]
+
 **Multi-scale Cross-restoration Framework for Electrocardiogram Anomaly Detection**
 [2023] [MICCAI] \
 [[Paper](https://arxiv.org/abs/2308.01639)] [[GitHub](https://github.com/MediaBrain-SJTU/ECGAD)]
@@ -88,6 +95,14 @@ If you have any questions, please feel free to contact me via: WeChat (188103275
 [May., 2024] [Nature Medicine] \
 [[Paper](https://www.nature.com/articles/s41591-024-02971-2)] [[GitHub](https://github.com/MedAI-Vision/CMR-AI)]
 
+**Correlation-Aware Mutual Learning for
+Semi-supervised Medical Image Segmentation**\
+[2023] [MICCAI] \
+[[Paper](https://arxiv.org/abs/2307.06312)] [[GitHub](https://github.com/Herschel555/CAML)]
+
+**Toward Enabling Cardiac Digital Twins of Myocardial Infarction Using Deep Computational Models for Inverse Inference** \
+[Jul., 2024] [IEEE TRANSACTIONS ON MEDICAL IMAGING] \
+[[Paper](https://ieeexplore.ieee.org/document/10440104)] [[GitHub](https://github.com/lileitech/MI_inverse_inference)]
 ### Multi-model
 **Toward Enabling Cardiac Digital Twins of Myocardial Infarction Using Deep Computational Models for Inverse Inference** \
 [Jul., 2024] [IEEE TRANSACTIONS ON MEDICAL IMAGING] \
