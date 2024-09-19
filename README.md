@@ -10,28 +10,21 @@ If you have any questions, please feel free to contact me via: WeChat (188103275
 * **[Tasks](#Tasks)**
     * [Classification](#classification)
     * [Segmentation](#segmentation)
-    * [Reconstruction](#segmentation)
+    * [Reconstruction](#Reconstruction)
 
 
 
 * **[Data](#Data)**
-  <details>
-    <summary>Data Types</summary>
-
-    * [ECG](#ecg)
-    * [CMRI](#cmri)
+    * [ECG](#ECG)
+    * [CMRI](#CMRI)
     * [CCTA](#ccta)
-    * [Electronic Reports](#electronic-reports)
-    * [Echocardiography](#echocardiography)
-    * [X-ray Imaging](#x-ray-imaging)
-    * [Multimodal Data](#multimodal-data)
+    * [Electronic Reports](#Electronic-Reports)
+    * [Echocardiography](#Echocardiography)
+    * [X-ray Imaging](#X-ray-imaging)
+    * [Multi-modal Data](#multimodal-data)
 
-  </details>
 
 * **[Disease](#Disease)**
-  <details>
-    <summary>Disease Types</summary>
-
     * [Cardiomyopathy](#cardiomyopathy)
     * [Coronary Artery Disease](#coronary-artery-disease)
     * [Arrhythmias](#arrhythmias)
@@ -39,7 +32,6 @@ If you have any questions, please feel free to contact me via: WeChat (188103275
     * [Valvular Disease](#valvular-disease)
     * [Congenital Heart Diseases](#congenital-heart-diseases)
 
-  </details>
 
 # **Reviews**
 **Artificial Intelligence: Practical Primer for Clinical Research in Cardiovascular Disease** \
