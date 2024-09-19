@@ -8,16 +8,11 @@ If you have any questions, please feel free to contact me via: WeChat (188103275
 # **Contents**
 * **[Related Reviews](#Reviews)**
 * **[Tasks](#Tasks)**
-  <details>
-    <summary>Subtasks</summary>
-
     * [Classification](#classification)
     * [Segmentation](#segmentation)
-    * [Detection](#detection)
-    * [Regression](#regression)
-    * [Prediction](#prediction)
+    * [Reconstruction](#segmentation)
 
-  </details>
+
 
 * **[Data](#Data)**
   <details>
