@@ -74,6 +74,13 @@ If you have any questions, please feel free to contact me via: WeChat (188103275
 [2023] [MICCAI] \
 [[Paper](https://arxiv.org/abs/2307.06312)] [[GitHub](https://github.com/Herschel555/CAML)]
 
+**Cross-Adversarial Local Distribution Regularization for Semi-supervised Medical Image Segmentation**\
+[2023] [MICCAI] \
+[[Paper](https://arxiv.org/abs/2307.06312)] [[GitHub](https://github.com/PotatoThanh/Cross-adversarial-local-distribution-regularization)]
+
+**Decoupled Consistency for Semi-supervised Medical Image Segmentation**\
+[2023] [MICCAI] \
+[[Paper](https://arxiv.org/abs/2307.06312)] [[GitHub](https://github.com/wxfaaaaa/DCNet)]
 ### Reconstruction 🏗️
 **Toward Enabling Cardiac Digital Twins of Myocardial Infarction Using Deep Computational Models for Inverse Inference** \
 [Jul., 2024] [IEEE TRANSACTIONS ON MEDICAL IMAGING] \
@@ -103,6 +110,13 @@ If you have any questions, please feel free to contact me via: WeChat (188103275
 [Jul., 2024] [IEEE TRANSACTIONS ON MEDICAL IMAGING] \
 [[Paper](https://ieeexplore.ieee.org/document/10440104)] [[GitHub](https://github.com/lileitech/MI_inverse_inference)]
 
+**Cross-Adversarial Local Distribution Regularization for Semi-supervised Medical Image Segmentation**\
+[2023] [MICCAI] \
+[[Paper](https://arxiv.org/abs/2307.06312)] [[GitHub](https://github.com/PotatoThanh/Cross-adversarial-local-distribution-regularization)]
+
+**Decoupled Consistency for Semi-supervised Medical Image Segmentation**\
+[2023] [MICCAI] \
+[[Paper](https://arxiv.org/abs/2307.06312)] [[GitHub](https://github.com/wxfaaaaa/DCNet)]
 # **Disease 🫀**
 
 ### Cardiomyopathy 💔
