@@ -1,6 +1,8 @@
 # The Awesome for Artificial Intelligence for Cardiovascular
-![homepage_image](https://github.com/WFLiu0327/Awesome-for-AI-in-Cardiovascular/blob/main/imgs/1fc58f96-711b-4247-ae8d-f59dd6cbb9ac.png)
+
 In this Awesome project, we will organize and categorize the applications of artificial intelligence in cardiovascular diseases from three perspectives: Tasks (including classification, segmentation, detection, regression, etc.), Data types (including ECG, CMRI, CCTA, electronic reports, echocardiography, X-ray imaging, multi-modal data), and disease types (including cardiomyopathy, coronary artery disease, etc.).
+![homepage_image](https://github.com/WFLiu0327/Awesome-for-AI-in-Cardiovascular/blob/main/imgs/1fc58f96-711b-4247-ae8d-f59dd6cbb9ac.png)
+
 
 # **Table of Contents**
 
@@ -42,7 +44,7 @@ In this Awesome project, we will organize and categorize the applications of art
     * [Congenital Heart Diseases](#congenital-heart-diseases)
 
   </details>
-
+* **[Related Reviews](#Reviews)**
 # **Tasks**
 
 ### Classification
@@ -67,6 +69,7 @@ In this Awesome project, we will organize and categorize the applications of art
 ### Coronary Artery Disease
 ...
 
+# **Reviews**
 
 
 ## 官网链接：https://cvpr.thecvf.com/
