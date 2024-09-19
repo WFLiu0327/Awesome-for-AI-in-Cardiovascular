@@ -32,12 +32,17 @@ If you have any questions, please feel free to contact me via: WeChat (188103275
     * [Heart Failure](#heart-failure)
     * [Valvular Disease](#valvular-disease)
     * [Congenital Heart Diseases](#congenital-heart-diseases)
+    * [Multiple Diseases](#Multiple-Diseases)
 
 
 # **Reviews**
 **Artificial Intelligence: Practical Primer for Clinical Research in Cardiovascular Disease** \
 [Sep., 2019] [Journal of the American Heart Association] \
-[[Paper](https://www.ahajournals.org/doi/full/10.1161/JAHA.119.012788)] [[GitHub](https://github.com/ChunmingHe/awesome-diffusion-models-in-low-level-vision)]
+[[Paper](https://www.ahajournals.org/doi/full/10.1161/JAHA.119.012788)] 
+
+**A guide to deep learning in healthcare** \
+[Jan., 2019] [Nature Medicine] \
+[[Paper](https://www.nature.com/articles/s41591-018-0316-z)]
 
 **Machine Learning-Based Heart Disease Diagnosis: A Systematic Literature Review** \
 [Jun., 2022] [Artificial Intelligence in Medicine] \
@@ -57,7 +62,9 @@ If you have any questions, please feel free to contact me via: WeChat (188103275
 # **Tasks**
 
 ### Classification
-
+**Screening and diagnosis of cardiovascular disease using artificial intelligence-enabled cardiac magnetic resonance imaging** \
+[May., 2024] [Nature Medicine] \
+[[Paper](https://www.nature.com/articles/s41591-024-02971-2)] [[GitHub](https://github.com/MedAI-Vision/CMR-AI)]
 
 ### Segmentation
 
@@ -91,6 +98,9 @@ If you have any questions, please feel free to contact me via: WeChat (188103275
 [Jul., 2024] [IEEE TRANSACTIONS ON MEDICAL IMAGING] \
 [[Paper](https://ieeexplore.ieee.org/document/10440104)] [[GitHub](https://github.com/lileitech/MI_inverse_inference)]
 
-
+### Multiple Diseases
+**Screening and diagnosis of cardiovascular disease using artificial intelligence-enabled cardiac magnetic resonance imaging** \
+[May., 2024] [Nature Medicine] \
+[[Paper](https://www.nature.com/articles/s41591-024-02971-2)] [[GitHub](https://github.com/MedAI-Vision/CMR-AI)]
 
 
