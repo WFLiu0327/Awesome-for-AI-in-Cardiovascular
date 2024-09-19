@@ -1,34 +1,19 @@
 # The Awesome for Artificial Intelligence for Cardiovascular
 ![homepage_image](https://github.com/WFLiu0327/Awesome-for-AI-in-Cardiovascular/blob/main/imgs/1fc58f96-711b-4247-ae8d-f59dd6cbb9ac.png)
-
+In this Awesome project, we will organize and categorize the applications of artificial intelligence in cardiovascular diseases from three perspectives: Tasks (including classification, segmentation, detection, regression, etc.), Data types (including ECG, CMRI, CCTA, electronic reports, echocardiography, X-ray imaging, multi-modal data), and disease types (including cardiomyopathy, coronary artery disease, etc.).
 
 ## Table of Contents
+* **[Tasks](#Tasks)**
 
-* **[Books](#books)**
+* **[Data](#Data types)**
 
-* **[Courses](#courses)**  
+* **[Disease](#Disease types)**  
 
-* **[Videos and Lectures](#videos-and-lectures)**  
 
-* **[Papers](#papers)**  
 
-* **[Tutorials](#tutorials)**  
 
-* **[Researchers](#researchers)**  
 
-* **[Websites](#websites)**  
 
-* **[Datasets](#datasets)**
-
-* **[Conferences](#Conferences)**
-
-* **[Frameworks](#frameworks)**  
-
-* **[Tools](#tools)**  
-
-* **[Miscellaneous](#miscellaneous)**  
-
-* **[Contributing](#contributing)**  
 ## 官网链接：https://cvpr.thecvf.com/
 
 ### 研讨会 :bell:：6 月 17-18 日<br>
