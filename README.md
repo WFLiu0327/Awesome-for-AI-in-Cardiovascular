@@ -56,10 +56,14 @@ If you have any questions, please feel free to contact me via: WeChat (188103275
 # **Tasks**
 
 ### Classification
-...
+
 
 ### Segmentation
-...
+
+### Reconstruction
+**Toward Enabling Cardiac Digital Twins of Myocardial Infarction Using Deep Computational Models for Inverse Inference** \
+[Jul., 2024] [IEEE TRANSACTIONS ON MEDICAL IMAGING] \
+[[Paper](https://ieeexplore.ieee.org/document/10440104)] [[GitHub](https://github.com/lileitech/MI_inverse_inference)]
 
 # **Data**
 
@@ -68,6 +72,11 @@ If you have any questions, please feel free to contact me via: WeChat (188103275
 
 ### CMRI
 ...
+
+### Multi-model
+**Toward Enabling Cardiac Digital Twins of Myocardial Infarction Using Deep Computational Models for Inverse Inference** \
+[Jul., 2024] [IEEE TRANSACTIONS ON MEDICAL IMAGING] \
+[[Paper](https://ieeexplore.ieee.org/document/10440104)] [[GitHub](https://github.com/lileitech/MI_inverse_inference)]
 
 # **Disease**
 
