@@ -1,5 +1,5 @@
 # The Awesome for Artificial Intelligence for Cardiovascular
-![homepage_image](https://github.com/52CV/CVPR-2024-Papers/assets/62801906/41a45750-bca8-4cb8-89dc-a04b0bbe7b2c)
+![homepage_image](https://github.com/WFLiu0327/Awesome-for-AI-in-Cardiovascular/blob/main/imgs/1fc58f96-711b-4247-ae8d-f59dd6cbb9ac.png)
 
 ## 官网链接：https://cvpr.thecvf.com/
 
