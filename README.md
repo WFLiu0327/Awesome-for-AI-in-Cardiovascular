@@ -1,4 +1,4 @@
-# The Awesome for Artificial Intelligence for Cardiovascular ❤️🧠
+# The Awesome for Artificial Intelligence for Cardiovascular ❤️
 
 In this Awesome project, we will organize and categorize the applications of artificial intelligence in cardiovascular diseases from three perspectives: Tasks (🛠️), Data types (💾), and disease types (🫀).
 
@@ -57,6 +57,10 @@ If you have any questions, please feel free to contact me via: WeChat (188103275
 **Artificial Intelligence in Image-based Cardiovascular Disease Analysis: A Comprehensive Survey and Future Outlook**\
 [Feb., 2024] [Arxiv] \
 [[Paper](https://arxiv.org/abs/2402.03394)] 
+
+**Multi-modality cardiac image computing: A survey**\
+[Aug., 2023] [Medical Image Analysis] \
+[[Paper](https://www.sciencedirect.com/science/article/pii/S1361841523001299)] 
 
 # **Tasks 🛠️**
 
@@ -117,6 +121,15 @@ If you have any questions, please feel free to contact me via: WeChat (188103275
 **Decoupled Consistency for Semi-supervised Medical Image Segmentation**\
 [2023] [MICCAI] \
 [[Paper](https://arxiv.org/abs/2307.06312)] [[GitHub](https://github.com/wxfaaaaa/DCNet)]
+
+### CCTA
+**ImageCAS: A Large-Scale Dataset and Benchmark for Coronary Artery Segmentation based on Computed Tomography Angiography Images**\
+[Oct., 2023] [Computerized Medical Imaging and Graphics] \
+[[Paper](https://www.sciencedirect.com/science/article/pii/S0895611123001052)] [[GitHub](https://github.com/XiaoweiXu/ImageCAS-A-Large-Scale-Dataset-and-Benchmark-for-Coronary-Artery-Segmentation-based-on-CT)]
+
+
+
+
 # **Disease 🫀**
 
 ### Cardiomyopathy 💔
