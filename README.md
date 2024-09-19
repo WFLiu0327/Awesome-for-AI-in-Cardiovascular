@@ -61,11 +61,14 @@ If you have any questions, please feel free to contact me via: WeChat (188103275
 [[Paper](https://arxiv.org/abs/2402.03394)] 
 # **Tasks**
 
-### Classification
+### Diagnose
 **Screening and diagnosis of cardiovascular disease using artificial intelligence-enabled cardiac magnetic resonance imaging** \
 [May., 2024] [Nature Medicine] \
 [[Paper](https://www.nature.com/articles/s41591-024-02971-2)] [[GitHub](https://github.com/MedAI-Vision/CMR-AI)]
 
+**Multi-scale Cross-restoration Framework for Electrocardiogram Anomaly Detection**
+[2023] [MICCAI] \
+[[Paper](https://arxiv.org/abs/2308.01639)] [[GitHub](https://github.com/MediaBrain-SJTU/ECGAD)]
 ### Segmentation
 
 ### Reconstruction
@@ -76,10 +79,14 @@ If you have any questions, please feel free to contact me via: WeChat (188103275
 # **Data**
 
 ### ECG
-...
+**Multi-scale Cross-restoration Framework for Electrocardiogram Anomaly Detection**
+[2023] [MICCAI] \
+[[Paper](https://arxiv.org/abs/2308.01639)] [[GitHub](https://github.com/MediaBrain-SJTU/ECGAD)]
 
 ### CMRI
-...
+**Screening and diagnosis of cardiovascular disease using artificial intelligence-enabled cardiac magnetic resonance imaging** \
+[May., 2024] [Nature Medicine] \
+[[Paper](https://www.nature.com/articles/s41591-024-02971-2)] [[GitHub](https://github.com/MedAI-Vision/CMR-AI)]
 
 ### Multi-model
 **Toward Enabling Cardiac Digital Twins of Myocardial Infarction Using Deep Computational Models for Inverse Inference** \
