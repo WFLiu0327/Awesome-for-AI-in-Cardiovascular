@@ -47,9 +47,15 @@ In this Awesome project, we will organize and categorize the applications of art
 
 # **Reviews**
 **Artificial Intelligence: Practical Primer for Clinical Research in Cardiovascular Disease** \
-[03 Sep., 2019] [Journal of the American Heart Association] \
+[Sep., 2019] [Journal of the American Heart Association] \
 [[Paper](https://www.ahajournals.org/doi/full/10.1161/JAHA.119.012788)] [[GitHub](https://github.com/ChunmingHe/awesome-diffusion-models-in-low-level-vision)]
+**Machine Learning-Based Heart Disease Diagnosis: A Systematic Literature Review** \
+[Jun., 2022] [Artificial Intelligence in Medicine] \
+[[Paper](https://www.sciencedirect.com/science/article/pii/S0933365722000549)] 
 
+**Critical appraisal of artificial intelligence-based prediction models for cardiovascular disease**\
+[Aug., 2022] [European Heart Journal] \
+[[Paper](https://academic.oup.com/eurheartj/article/43/31/2921/6593474)] 
 # **Tasks**
 
 ### Classification
