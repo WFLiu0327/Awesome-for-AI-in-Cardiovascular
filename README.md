@@ -26,6 +26,7 @@ If you have any questions, please feel free to contact me via: WeChat (188103275
 
 * **[Disease](#Disease)**
     * [Cardiomyopathy](#cardiomyopathy)
+    * [Myocardial Infarction](#Myocardial Infarction)
     * [Coronary Artery Disease](#coronary-artery-disease)
     * [Arrhythmias](#arrhythmias)
     * [Heart Failure](#heart-failure)
@@ -85,8 +86,10 @@ If you have any questions, please feel free to contact me via: WeChat (188103275
 
 ### Coronary Artery Disease
 ...
-
-# **Reviews**
+### Myocardial Infarction
+**Toward Enabling Cardiac Digital Twins of Myocardial Infarction Using Deep Computational Models for Inverse Inference** \
+[Jul., 2024] [IEEE TRANSACTIONS ON MEDICAL IMAGING] \
+[[Paper](https://ieeexplore.ieee.org/document/10440104)] [[GitHub](https://github.com/lileitech/MI_inverse_inference)]
 
 
 
