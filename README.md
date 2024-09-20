@@ -102,6 +102,11 @@ If you have any questions, please feel free to contact me via: WeChat (188103275
 **CorSegRec: A Topology-Preserving Scheme for Extracting Fully-Connected Coronary Arteries from CT Angiography**\
 [2023] [MICCAI] \
 [[Paper](https://link.springer.com/chapter/10.1007/978-3-031-43898-1_64)] [[GitHub](https://github.com/YH-Qiu/CorSegRec)]
+
+**GL-Fusion: Global-Local Fusion Network for Multi-view Echocardiogram Video Segmentation**\
+[2023] [MICCAI] \
+[[Paper](https://arxiv.org/abs/2309.11144)] [[GitHub](https://github.com/xmed-lab/GL-Fusion)]
+
 ### Reconstruction 🏗️
 **Toward Enabling Cardiac Digital Twins of Myocardial Infarction Using Deep Computational Models for Inverse Inference** \
 [Jul., 2024] [IEEE TRANSACTIONS ON MEDICAL IMAGING] \
@@ -190,6 +195,12 @@ If you have any questions, please feel free to contact me via: WeChat (188103275
 **ProtoASNet: Dynamic Prototypes for Inherently Interpretable and Uncertainty-Aware Aortic Stenosis Classification in Echocardiography**\
 [2023] [MICCAI] \
 [[Paper](https://arxiv.org/abs/2307.14433)] [[GitHub](https://github.com/hooman007/ProtoASNet)]
+
+**GL-Fusion: Global-Local Fusion Network for Multi-view Echocardiogram Video Segmentation**\
+[2023] [MICCAI] \
+[[Paper](https://arxiv.org/abs/2309.11144)] [[GitHub](https://github.com/xmed-lab/GL-Fusion)]
+
+
 # **Disease 🫀**
 
 ### Cardiomyopathy 💔
