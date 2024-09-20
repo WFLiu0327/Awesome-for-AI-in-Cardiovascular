@@ -74,6 +74,10 @@ If you have any questions, please feel free to contact me via: WeChat (188103275
 [2023] [MICCAI] \
 [[Paper](https://arxiv.org/abs/2308.01639)] [[GitHub](https://github.com/MediaBrain-SJTU/ECGAD)]
 
+**ProtoASNet: Dynamic Prototypes for Inherently Interpretable and Uncertainty-Aware Aortic Stenosis Classification in Echocardiography**\
+[2023] [MICCAI] \
+[[Paper](https://arxiv.org/abs/2307.14433)] [[GitHub](https://github.com/hooman007/ProtoASNet)]
+
 ### Segmentation 🖼️
 **Correlation-Aware Mutual Learning for Semi-supervised Medical Image Segmentation**\
 [2023] [MICCAI] \
@@ -86,6 +90,18 @@ If you have any questions, please feel free to contact me via: WeChat (188103275
 **Decoupled Consistency for Semi-supervised Medical Image Segmentation**\
 [2023] [MICCAI] \
 [[Paper](https://arxiv.org/abs/2307.06312)] [[GitHub](https://github.com/wxfaaaaa/DCNet)]
+
+**Wall Thickness Estimation from Short Axis Ultrasound Images via Temporal Compatible Deformation Learning** \
+[2023] [MICCAI] \
+[[Paper](https://link.springer.com/chapter/10.1007/978-3-031-43987-2_21)] 
+
+**Temporal Uncertainty Localization to Enable Human-in-the-Loop Analysis of Dynamic Contrast-Enhanced Cardiac MRI Datasets**\
+[2023] [MICCAI] \
+[[Paper](https://link.springer.com/chapter/10.1007/978-3-031-43898-1_44)]
+
+**CorSegRec: A Topology-Preserving Scheme for Extracting Fully-Connected Coronary Arteries from CT Angiography**\
+[2023] [MICCAI] \
+[[Paper](https://link.springer.com/chapter/10.1007/978-3-031-43898-1_64)] [[GitHub](https://github.com/YH-Qiu/CorSegRec)]
 ### Reconstruction 🏗️
 **Toward Enabling Cardiac Digital Twins of Myocardial Infarction Using Deep Computational Models for Inverse Inference** \
 [Jul., 2024] [IEEE TRANSACTIONS ON MEDICAL IMAGING] \
@@ -95,14 +111,18 @@ If you have any questions, please feel free to contact me via: WeChat (188103275
 [2023] [MICCAI] \
 [[Paper](https://link.springer.com/chapter/10.1007/978-3-031-43987-2_11)] 
 
-**Wall Thickness Estimation from Short Axis Ultrasound Images via Temporal Compatible Deformation Learning** \
-[2023] [MICCAI] \
-[[Paper](https://link.springer.com/chapter/10.1007/978-3-031-43987-2_21)]
+
 
 ### Functional Index Calculation
 **Wall Thickness Estimation from Short Axis Ultrasound Images via Temporal Compatible Deformation Learning** \
 [2023] [MICCAI] \
 [[Paper](https://link.springer.com/chapter/10.1007/978-3-031-43987-2_21)] 
+
+**Mitral Regurgitation Quantification from Multi-channel Ultrasound Images via Deep Learning**\
+[2023] [MICCAI] \
+[[Paper](https://link.springer.com/chapter/10.1007/978-3-031-43987-2_22)]
+
+
 
 # **Data 💾**
 
@@ -140,11 +160,18 @@ If you have any questions, please feel free to contact me via: WeChat (188103275
 [2023] [MICCAI] \
 [[Paper](https://link.springer.com/chapter/10.1007/978-3-031-43987-2_11)]
 
+**Temporal Uncertainty Localization to Enable Human-in-the-Loop Analysis of Dynamic Contrast-Enhanced Cardiac MRI Datasets**\
+[2023] [MICCAI] \
+[[Paper](https://link.springer.com/chapter/10.1007/978-3-031-43898-1_44)]
+
 ### CCTA
 **ImageCAS: A Large-Scale Dataset and Benchmark for Coronary Artery Segmentation based on Computed Tomography Angiography Images**\
 [Oct., 2023] [Computerized Medical Imaging and Graphics] \
 [[Paper](https://www.sciencedirect.com/science/article/pii/S0895611123001052)] [[GitHub](https://github.com/XiaoweiXu/ImageCAS-A-Large-Scale-Dataset-and-Benchmark-for-Coronary-Artery-Segmentation-based-on-CT)]
 
+**CorSegRec: A Topology-Preserving Scheme for Extracting Fully-Connected Coronary Arteries from CT Angiography**\
+[2023] [MICCAI] \
+[[Paper](https://link.springer.com/chapter/10.1007/978-3-031-43898-1_64)] [[GitHub](https://github.com/YH-Qiu/CorSegRec)]
 ### CT
 **Whole-Heart Reconstruction with Explicit Topology Integrated Learning** \
 [2023] [MICCAI] \
@@ -155,6 +182,14 @@ If you have any questions, please feel free to contact me via: WeChat (188103275
 **Wall Thickness Estimation from Short Axis Ultrasound Images via Temporal Compatible Deformation Learning** \
 [2023] [MICCAI] \
 [[Paper](https://link.springer.com/chapter/10.1007/978-3-031-43987-2_21)]
+
+**Mitral Regurgitation Quantification from Multi-channel Ultrasound Images via Deep Learning**\
+[2023] [MICCAI] \
+[[Paper](https://link.springer.com/chapter/10.1007/978-3-031-43987-2_22)]
+
+**ProtoASNet: Dynamic Prototypes for Inherently Interpretable and Uncertainty-Aware Aortic Stenosis Classification in Echocardiography**\
+[2023] [MICCAI] \
+[[Paper](https://arxiv.org/abs/2307.14433)] [[GitHub](https://github.com/hooman007/ProtoASNet)]
 # **Disease 🫀**
 
 ### Cardiomyopathy 💔
