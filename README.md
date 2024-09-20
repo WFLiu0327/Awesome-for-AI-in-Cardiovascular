@@ -12,6 +12,7 @@ If you have any questions, please feel free to contact me via: WeChat (188103275
     * [Classification](#classification)
     * [Segmentation](#segmentation)
     * [Reconstruction](#Reconstruction)
+    * [Functional Index Calculation](#Calculation)
 
 * **[Data](#Data) 💾**
     * [ECG](#ECG)
@@ -90,9 +91,22 @@ If you have any questions, please feel free to contact me via: WeChat (188103275
 [Jul., 2024] [IEEE TRANSACTIONS ON MEDICAL IMAGING] \
 [[Paper](https://ieeexplore.ieee.org/document/10440104)] [[GitHub](https://github.com/lileitech/MI_inverse_inference)]
 
+**Whole-Heart Reconstruction with Explicit Topology Integrated Learning** \
+[2023] [MICCAI] \
+[[Paper](https://link.springer.com/chapter/10.1007/978-3-031-43987-2_11)] 
+
+**Wall Thickness Estimation from Short Axis Ultrasound Images via Temporal Compatible Deformation Learning** \
+[2023] [MICCAI] \
+[[Paper](https://link.springer.com/chapter/10.1007/978-3-031-43987-2_21)]
+
+### Functional Index Calculation
+**Wall Thickness Estimation from Short Axis Ultrasound Images via Temporal Compatible Deformation Learning** \
+[2023] [MICCAI] \
+[[Paper](https://link.springer.com/chapter/10.1007/978-3-031-43987-2_21)] 
+
 # **Data 💾**
 
-### ECG 📊
+### ECG 💓
 **Toward Enabling Cardiac Digital Twins of Myocardial Infarction Using Deep Computational Models for Inverse Inference** \
 [Jul., 2024] [IEEE TRANSACTIONS ON MEDICAL IMAGING] \
 [[Paper](https://ieeexplore.ieee.org/document/10440104)] [[GitHub](https://github.com/lileitech/MI_inverse_inference)]
@@ -122,14 +136,25 @@ If you have any questions, please feel free to contact me via: WeChat (188103275
 [2023] [MICCAI] \
 [[Paper](https://arxiv.org/abs/2307.06312)] [[GitHub](https://github.com/wxfaaaaa/DCNet)]
 
+**Whole-Heart Reconstruction with Explicit Topology Integrated Learning** \
+[2023] [MICCAI] \
+[[Paper](https://link.springer.com/chapter/10.1007/978-3-031-43987-2_11)]
+
 ### CCTA
 **ImageCAS: A Large-Scale Dataset and Benchmark for Coronary Artery Segmentation based on Computed Tomography Angiography Images**\
 [Oct., 2023] [Computerized Medical Imaging and Graphics] \
 [[Paper](https://www.sciencedirect.com/science/article/pii/S0895611123001052)] [[GitHub](https://github.com/XiaoweiXu/ImageCAS-A-Large-Scale-Dataset-and-Benchmark-for-Coronary-Artery-Segmentation-based-on-CT)]
 
+### CT
+**Whole-Heart Reconstruction with Explicit Topology Integrated Learning** \
+[2023] [MICCAI] \
+[[Paper](https://link.springer.com/chapter/10.1007/978-3-031-43987-2_11)]
 
 
-
+### Echocardiography
+**Wall Thickness Estimation from Short Axis Ultrasound Images via Temporal Compatible Deformation Learning** \
+[2023] [MICCAI] \
+[[Paper](https://link.springer.com/chapter/10.1007/978-3-031-43987-2_21)]
 # **Disease 🫀**
 
 ### Cardiomyopathy 💔
