@@ -107,6 +107,10 @@ If you have any questions, please feel free to contact me via: WeChat (188103275
 [2023] [MICCAI] \
 [[Paper](https://arxiv.org/abs/2309.11144)] [[GitHub](https://github.com/xmed-lab/GL-Fusion)]
 
+**Semi-supervised Class Imbalanced Deep Learning for Cardiac MRI Segmentation**\
+[2023] [MICCAI] \
+[[Paper](https://link.springer.com/chapter/10.1007/978-3-031-43901-8_44)] [[GitHub](https://github.com/IsYuchenYuan/SSCI)]
+
 ### Reconstruction 🏗️
 **Toward Enabling Cardiac Digital Twins of Myocardial Infarction Using Deep Computational Models for Inverse Inference** \
 [Jul., 2024] [IEEE TRANSACTIONS ON MEDICAL IMAGING] \
@@ -127,7 +131,9 @@ If you have any questions, please feel free to contact me via: WeChat (188103275
 [2023] [MICCAI] \
 [[Paper](https://link.springer.com/chapter/10.1007/978-3-031-43987-2_22)]
 
-
+**EchoGLAD: Hierarchical Graph Neural Networks for Left Ventricle Landmark Detection on Echocardiograms**\
+[2023] [MICCAI] \
+[[Paper](https://arxiv.org/abs/2307.12229)] [[GitHub](https://github.com/DSL-Lab/echoglad)]
 
 # **Data 💾**
 
@@ -169,6 +175,10 @@ If you have any questions, please feel free to contact me via: WeChat (188103275
 [2023] [MICCAI] \
 [[Paper](https://link.springer.com/chapter/10.1007/978-3-031-43898-1_44)]
 
+**Semi-supervised Class Imbalanced Deep Learning for Cardiac MRI Segmentation**\
+[2023] [MICCAI] \
+[[Paper](https://link.springer.com/chapter/10.1007/978-3-031-43901-8_44)] [[GitHub](https://github.com/IsYuchenYuan/SSCI)]
+
 ### CCTA
 **ImageCAS: A Large-Scale Dataset and Benchmark for Coronary Artery Segmentation based on Computed Tomography Angiography Images**\
 [Oct., 2023] [Computerized Medical Imaging and Graphics] \
@@ -199,6 +209,11 @@ If you have any questions, please feel free to contact me via: WeChat (188103275
 **GL-Fusion: Global-Local Fusion Network for Multi-view Echocardiogram Video Segmentation**\
 [2023] [MICCAI] \
 [[Paper](https://arxiv.org/abs/2309.11144)] [[GitHub](https://github.com/xmed-lab/GL-Fusion)]
+
+**EchoGLAD: Hierarchical Graph Neural Networks for Left Ventricle Landmark Detection on Echocardiograms**\
+[2023] [MICCAI] \
+[[Paper](https://arxiv.org/abs/2307.12229)] [[GitHub](https://github.com/DSL-Lab/echoglad)]
+
 
 
 # **Disease 🫀**
