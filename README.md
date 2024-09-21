@@ -64,6 +64,10 @@ If you have any questions, please feel free to contact me via: WeChat (188103275
 [Aug., 2023] [Medical Image Analysis] \
 [[Paper](https://www.sciencedirect.com/science/article/pii/S1361841523001299)] 
 
+**Deep learning in ECG diagnosis: A review**\
+[2021] [Knowledge-Based Systems] \
+[[Paper](https://doi.org/10.1016/j.knosys.2021.107187)] 
+
 # **Tasks 🛠️**
 
 ### Diagnosis 🩺
@@ -154,6 +158,27 @@ If you have any questions, please feel free to contact me via: WeChat (188103275
 **HQ-DCGAN: Hybrid quantum deep convolutional generative adversarial network approach for ECG generation**\
 [2024] [Knowledge-Based Systems] \
 [[Paper](https://doi.org/10.1016/j.knosys.2024.112260)] [[GitHub](https://github.com/ErdongChenErdong/HQ-DCGAN)]
+
+**Label decoupling strategy for 12-lead ECG classification**\
+[2023] [Knowledge-Based Systems] \
+[[Paper](https://doi.org/10.1016/j.knosys.2023.110298)] [[GitHub](https://github.com/Zhangshuojackpot/Label-Decoupling-Module)]
+
+**Artificial intelligence estimated electrocardiographic age as a recurrence predictor after atrial fibrillation catheter ablation**\
+[2024] [Nature Medicine] \
+[[Paper](https://doi.org/10.1038/s41746-024-01234-1)] 
+
+**Artificial intelligence-enabled prediction of chemotherapy-induced cardiotoxicity from baseline electrocardiograms**\
+[2024] [Nature Communications] \
+[[Paper](https://doi.org/10.1038/s41467-024-45733-x)]
+
+**An ECG-based artificial intelligence model for assessment of sudden cardiac death risk**\
+[2024] [communications medicine] \
+[[Paper](https://doi.org/10.1038/s43856-024-00451-9)]
+
+**Machine learning for ECG diagnosis and risk stratification of occlusion myocardial infarction**\
+[2023] [Nature Medicine] \
+[[Paper](https://doi.org/10.1038/s41591-023-02396-3)]
+
 ### CMRI 🧲
 **Screening and diagnosis of cardiovascular disease using artificial intelligence-enabled cardiac magnetic resonance imaging** \
 [May., 2024] [Nature Medicine] \
