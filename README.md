@@ -8,6 +8,7 @@ If you have any questions, please feel free to contact me via: WeChat (188103275
 
 # **Contents**
 * **[Related Reviews](#Reviews) 📝**
+<!-- * **[Open-Source Datasets](#Datasets) ** -->
 * **[Tasks](#Tasks) 🛠️**
     * [Classification](#classification)
     * [Segmentation](#segmentation)
@@ -111,6 +112,10 @@ If you have any questions, please feel free to contact me via: WeChat (188103275
 [2023] [MICCAI] \
 [[Paper](https://link.springer.com/chapter/10.1007/978-3-031-43901-8_44)] [[GitHub](https://github.com/IsYuchenYuan/SSCI)]
 
+**CMRVAE: Contrastive margin-restrained variational auto-encoder for class-separated domain adaptation in cardiac segmentation**\
+[2024] [Knowledge-Based Systems] \
+[[Paper](https://doi.org/10.1016/j.knosys.2024.112412)] 
+
 ### Reconstruction 🏗️
 **Toward Enabling Cardiac Digital Twins of Myocardial Infarction Using Deep Computational Models for Inverse Inference** \
 [Jul., 2024] [IEEE TRANSACTIONS ON MEDICAL IMAGING] \
@@ -146,6 +151,9 @@ If you have any questions, please feel free to contact me via: WeChat (188103275
 [2023] [MICCAI] \
 [[Paper](https://arxiv.org/abs/2308.01639)] [[GitHub](https://github.com/MediaBrain-SJTU/ECGAD)]
 
+**HQ-DCGAN: Hybrid quantum deep convolutional generative adversarial network approach for ECG generation**\
+[2024] [Knowledge-Based Systems] \
+[[Paper](https://doi.org/10.1016/j.knosys.2024.112260)] [[GitHub](https://github.com/ErdongChenErdong/HQ-DCGAN)]
 ### CMRI 🧲
 **Screening and diagnosis of cardiovascular disease using artificial intelligence-enabled cardiac magnetic resonance imaging** \
 [May., 2024] [Nature Medicine] \
@@ -178,6 +186,10 @@ If you have any questions, please feel free to contact me via: WeChat (188103275
 **Semi-supervised Class Imbalanced Deep Learning for Cardiac MRI Segmentation**\
 [2023] [MICCAI] \
 [[Paper](https://link.springer.com/chapter/10.1007/978-3-031-43901-8_44)] [[GitHub](https://github.com/IsYuchenYuan/SSCI)]
+
+**CMRVAE: Contrastive margin-restrained variational auto-encoder for class-separated domain adaptation in cardiac segmentation**\
+[2024] [Knowledge-Based Systems] \
+[[Paper](https://doi.org/10.1016/j.knosys.2024.112412)] 
 
 ### CCTA
 **ImageCAS: A Large-Scale Dataset and Benchmark for Coronary Artery Segmentation based on Computed Tomography Angiography Images**\
