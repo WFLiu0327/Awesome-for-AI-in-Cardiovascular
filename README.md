@@ -120,6 +120,14 @@ If you have any questions, please feel free to contact me via: WeChat (188103275
 [2024] [Knowledge-Based Systems] \
 [[Paper](https://doi.org/10.1016/j.knosys.2024.112412)] 
 
+**A cascaded framework with cross-modality transfer learning for whole heart segmentation**\
+[2024] [Pattern Recognition] \
+[[Paper](https://doi.org/10.1016/j.patcog.2023.110088)] 
+
+**Robust implementation of foreground extraction and vessel segmentation for X-ray coronary angiography image sequence**\
+[2023] [Pattern Recognition] \
+[[Paper](https://doi.org/10.1016/j.patcog.2023.109926)]
+
 ### Reconstruction 🏗️
 **Toward Enabling Cardiac Digital Twins of Myocardial Infarction Using Deep Computational Models for Inverse Inference** \
 [Jul., 2024] [IEEE TRANSACTIONS ON MEDICAL IMAGING] \
@@ -216,6 +224,10 @@ If you have any questions, please feel free to contact me via: WeChat (188103275
 [2024] [Knowledge-Based Systems] \
 [[Paper](https://doi.org/10.1016/j.knosys.2024.112412)] 
 
+**A cascaded framework with cross-modality transfer learning for whole heart segmentation**\
+[2024] [Pattern Recognition] \
+[[Paper](https://doi.org/10.1016/j.patcog.2023.110088)] 
+
 ### CCTA
 **ImageCAS: A Large-Scale Dataset and Benchmark for Coronary Artery Segmentation based on Computed Tomography Angiography Images**\
 [Oct., 2023] [Computerized Medical Imaging and Graphics] \
@@ -229,7 +241,9 @@ If you have any questions, please feel free to contact me via: WeChat (188103275
 [2023] [MICCAI] \
 [[Paper](https://link.springer.com/chapter/10.1007/978-3-031-43987-2_11)]
 
-
+**A cascaded framework with cross-modality transfer learning for whole heart segmentation**\
+[2024] [Pattern Recognition] \
+[[Paper](https://doi.org/10.1016/j.patcog.2023.110088)] 
 ### Echocardiography
 **Wall Thickness Estimation from Short Axis Ultrasound Images via Temporal Compatible Deformation Learning** \
 [2023] [MICCAI] \
@@ -251,6 +265,10 @@ If you have any questions, please feel free to contact me via: WeChat (188103275
 [2023] [MICCAI] \
 [[Paper](https://arxiv.org/abs/2307.12229)] [[GitHub](https://github.com/DSL-Lab/echoglad)]
 
+### X-Ray
+**Robust implementation of foreground extraction and vessel segmentation for X-ray coronary angiography image sequence**\
+[2023] [Pattern Recognition] \
+[[Paper](https://doi.org/10.1016/j.patcog.2023.109926)] 
 
 
 # **Disease 🫀**
