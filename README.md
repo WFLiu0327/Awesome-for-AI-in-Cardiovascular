@@ -240,6 +240,15 @@ If you have any questions, please feel free to contact me via: WeChat (188103275
 **CorSegRec: A Topology-Preserving Scheme for Extracting Fully-Connected Coronary Arteries from CT Angiography**\
 [2023] [MICCAI] \
 [[Paper](https://link.springer.com/chapter/10.1007/978-3-031-43898-1_64)] [[GitHub](https://github.com/YH-Qiu/CorSegRec)]
+
+**CT Myocardial Perfusion and CT-FFR versus Invasive FFR for Hemodynamic Relevance of Coronary Artery Disease**\
+[2024] [Radiology] \
+[[Paper](https://doi.org/10.1148/radiol.233234)] 
+
+**Quantification of Aortic Valve Fibrotic and Calcific Tissue from CTA: Prospective Comparison with Histology**\
+[2024] [Radiology] \
+[[Paper](https://doi.org/10.1148/radiol.240229)] 
+
 ### CT
 **Whole-Heart Reconstruction with Explicit Topology Integrated Learning** \
 [2023] [MICCAI] \
@@ -281,7 +290,9 @@ If you have any questions, please feel free to contact me via: WeChat (188103275
 ...
 
 ### Coronary Artery Disease 🩸
-...
+**CT Myocardial Perfusion and CT-FFR versus Invasive FFR for Hemodynamic Relevance of Coronary Artery Disease**\
+[2024] [Radiology] \
+[[Paper](https://doi.org/10.1148/radiol.233234)] 
 
 ### Myocardial Infarction 💥
 **Toward Enabling Cardiac Digital Twins of Myocardial Infarction Using Deep Computational Models for Inverse Inference** \
