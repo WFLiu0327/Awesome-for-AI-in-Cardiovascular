@@ -187,6 +187,10 @@ If you have any questions, please feel free to contact me via: WeChat (188103275
 [2023] [Nature Medicine] \
 [[Paper](https://doi.org/10.1038/s41591-023-02396-3)]
 
+**Multi-scale differential feature for ECG biometrics with collective matrix factorization**\
+[2020] [Pattern Recognition] \
+[[Paper](https://doi.org/10.1016/j.patcog.2020.107211)]
+
 ### CMRI 🧲
 **Screening and diagnosis of cardiovascular disease using artificial intelligence-enabled cardiac magnetic resonance imaging** \
 [May., 2024] [Nature Medicine] \
