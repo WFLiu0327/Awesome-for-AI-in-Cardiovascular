@@ -53,6 +53,9 @@ If you have any questions, please feel free to contact me via: WeChat (188103275
 [2018] [npj Digital Medicine] \
 [[Paper](https://www.nature.com/articles/s41746-018-0065-x)]
 
+**Deep learning interpretation of echocardiograms**\
+[2020] [npj Digital Medicine] \
+[[Paper](https://www.nature.com/articles/s41746-019-0216-8)]
 
 ### **Transformer-based**
 
@@ -72,9 +75,14 @@ If you have any questions, please feel free to contact me via: WeChat (188103275
 **Fast and accurate view classification of echocardiograms using  deep learning**\
 [2018] [npj Digital Medicine] \
 [[Paper](https://doi.org/10.1038/s41746-017-0013-1)]
+
 **Deep echocardiography: data-efficient supervised and semisupervised deep learning towards automated diagnosis of  cardiac disease**\
 [2018] [npj Digital Medicine] \
 [[Paper](https://www.nature.com/articles/s41746-018-0065-x)]
+
+**Deep learning interpretation of echocardiograms**\
+[2020] [npj Digital Medicine] \
+[[Paper](https://www.nature.com/articles/s41746-019-0216-8)]
 ### **X-Ray**
 
 ### **Multi-modal-Data**
