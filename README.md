@@ -25,18 +25,17 @@ If you have any questions, please feel free to contact me via: WeChat (188103275
     * [CCTA](#CCTA)
     * [CT](#CT)
     * [Echocardiography](#Echocardiography)
-    * [Electronic Reports](#Electronic-Reports)
+    <!-- * [Electronic Reports](#Electronic-Reports) -->
     * [X-ray Imaging](#X-ray-Imaging)
     * [Multi-modal Data](#Multi-modal-Data)
 * **[Disease Types](#Disease) 🫀**
-    * [Cardiomyopathy](#Cardiomyopathy)
-    * [Myocardial Infarction](#Myocardial-Infarction)
-    * [Coronary Artery Disease](#Coronary-Artery-Disease)
-    * [Arrhythmias](#Arrhythmias)
     * [Heart Failure](#Heart-Failure)
-    * [Valvular Disease](#Valvular-Disease)
-    * [Congenital Heart Diseases](#Congenital-Heart-Diseases)
-    * [Multiple Diseases](#Multiple-Diseases)
+    * [Arrhythmias](#Arrhythmias)
+    * [Atherosclerotic Cardiovascular Disease](#therosclerotic-Cardiovascular-Disease)
+    * [Structural Heart Disease](#Structural-Heart-Disease)
+    * [Cardiomyopathies](#Cardiomyopathies)
+    * [Others](#Others)
+
 
 ---
 # **Tasks**
