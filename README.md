@@ -1,6 +1,6 @@
 # The Awesome for Artificial Intelligence for Cardiovascular ❤️
 
-In this Awesome project, we will organize and categorize the applications of artificial intelligence in cardiovascular diseases from three perspectives: Tasks (🛠️), Data types (💾), and disease types (🫀).
+In this Awesome project, we will organize and categorize the applications of artificial intelligence in cardiovascular diseases from three perspectives: Tasks, Data types, and disease types.
 
 ![homepage_image](https://github.com/WFLiu0327/Awesome-for-AI-in-Cardiovascular/blob/main/imgs/1fc58f96-711b-4247-ae8d-f59dd6cbb9ac.png)
 
@@ -19,6 +19,7 @@ If you have any questions, please feel free to contact me via: WeChat (188103275
     * [ECG](#ECG)
     * [CMRI](#CMRI)
     * [CCTA](#CCTA)
+    * [CT](#CT)
     * [Electronic Reports](#Electronic-Reports)
     * [Echocardiography](#Echocardiography)
     * [X-ray Imaging](#X-ray-Imaging)
@@ -34,9 +35,9 @@ If you have any questions, please feel free to contact me via: WeChat (188103275
     * [Multiple Diseases](#Multiple-Diseases)
 
 ---
-# **Tasks 🛠️**
+# **Tasks**
 
-### **Diagnosis 🩺**
+### **Diagnosis**
  
 
 
@@ -50,22 +51,24 @@ If you have any questions, please feel free to contact me via: WeChat (188103275
 
 ### **CT**
 
-### **X-Ray**
-
 ### **Echocardiography**
 
-# **Disease 🫀**
+### **X-Ray**
 
-### **Heart Failure 💔**
+### **Multi-modal-Data**
+
+# **Disease**
+
+### **Heart Failure**
 ... 
 
 ### **Arrhythmia**
 ...
 
-### **Atherosclerotic Cardiovascular Disease 🩸**
+### **Atherosclerotic Cardiovascular Disease**
 ...
 
-### **Structural Heart Disease 💥**
+### **Structural Heart Disease**
 ...
 
 
