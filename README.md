@@ -15,13 +15,17 @@ If you have any questions, please feel free to contact me via: WeChat (188103275
     * [Segmentation](#Segmentation)
     * [Reconstruction](#Reconstruction)
     * [Functional Index Calculation](#Functional-Index-Calculation)
+* **[Methods](#Methods) 🛠️**
+    * [CNN-based](#CNN-based)
+    * [Transformer-based](#Transformer-based)
+    * [Others](#Others)
 * **[Data Types](#Data) 💾**
     * [ECG](#ECG)
     * [CMRI](#CMRI)
     * [CCTA](#CCTA)
     * [CT](#CT)
-    * [Electronic Reports](#Electronic-Reports)
     * [Echocardiography](#Echocardiography)
+    * [Electronic Reports](#Electronic-Reports)
     * [X-ray Imaging](#X-ray-Imaging)
     * [Multi-modal Data](#Multi-modal-Data)
 * **[Disease Types](#Disease) 🫀**
@@ -39,6 +43,9 @@ If you have any questions, please feel free to contact me via: WeChat (188103275
 
 ### **Diagnosis**
  
+# **Methods**
+
+### **CNN-based**
 
 
 # **Data**
@@ -52,6 +59,9 @@ If you have any questions, please feel free to contact me via: WeChat (188103275
 ### **CT**
 
 ### **Echocardiography**
+**Fast and accurate view classification of echocardiograms using  deep learning**\
+[2018] [npj Digital Medicine] \
+[[Paper](https://doi.org/10.1038/s41746-017-0013-1)]
 
 ### **X-Ray**
 
