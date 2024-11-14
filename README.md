@@ -70,6 +70,10 @@ If you have any questions, please feel free to contact me via: WeChat (188103275
 ### **CCTA**
 
 ### **CT**
+**Artificial intelligence applied to coronary artery calcium scans (AI-CAC) significantly improves cardiovascular events prediction**\
+[2024] [npj Digital Medicine] \
+[[Paper](https://doi.org/10.1038/s41746-024-01308-0)]
+
 
 ### **Echocardiography**
 **Fast and accurate view classification of echocardiograms using  deep learning**\
@@ -83,6 +87,10 @@ If you have any questions, please feel free to contact me via: WeChat (188103275
 **Deep learning interpretation of echocardiograms**\
 [2020] [npj Digital Medicine] \
 [[Paper](https://www.nature.com/articles/s41746-019-0216-8)]
+
+**Deep learning-enabled coronary CT angiography for plaque  and stenosis quantification and cardiac risk prediction: an  international multicentre study**\
+[2022] [The Lancet Digital ] \
+[[Paper](https://www.thelancet.com/journals/landig/article/PIIS2589-7500(21)00235-1/fulltext)]
 ### **X-Ray**
 
 ### **Multi-modal-Data**
@@ -90,7 +98,9 @@ If you have any questions, please feel free to contact me via: WeChat (188103275
 # **Disease**
 
 ### **Heart Failure**
-... 
+**Deep learning-enabled coronary CT angiography for plaque  and stenosis quantification and cardiac risk prediction: an  international multicentre study**\
+[2022] [The Lancet Digital ] \
+[[Paper](https://www.thelancet.com/journals/landig/article/PIIS2589-7500(21)00235-1/fulltext)]
 
 ### **Arrhythmias**
 ...
@@ -104,6 +114,11 @@ If you have any questions, please feel free to contact me via: WeChat (188103275
 
 ### **Cardiomyopathies**
 ...
+
+### **Composite Cardiovascular Endpoint**
+**Artificial intelligence applied to coronary artery calcium scans (AI-CAC) significantly improves cardiovascular events prediction**\
+[2024] [npj Digital Medicine] \
+[[Paper](https://doi.org/10.1038/s41746-024-01308-0)]
 
 ### **Others**
 ...
