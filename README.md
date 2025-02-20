@@ -1,5 +1,5 @@
 # The Awesome for Artificial Intelligence for Cardiovascular ❤️
-
+English | [简体中文](./Readme_cn.md)
 In this Awesome project, we will organize and categorize the applications of artificial intelligence in cardiovascular diseases from three perspectives: Tasks, Data types, and disease types.
 
 ![homepage_image](https://github.com/WFLiu0327/Awesome-for-AI-in-Cardiovascular/blob/main/imgs/1fc58f96-711b-4247-ae8d-f59dd6cbb9ac.png)
